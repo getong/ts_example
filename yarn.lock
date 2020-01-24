@@ -7,6 +7,23 @@ grapheme-splitter@^1.0.4:
   resolved "https://registry.npm.taobao.org/grapheme-splitter/download/grapheme-splitter-1.0.4.tgz#9cf3a665c6247479896834af35cf1dbb4400767e"
   integrity sha1-nPOmZcYkdHmJaDSvNc8du0QAdn4=
 
+is-wsl@^2.1.0:
+  version "2.1.1"
+  resolved "https://registry.npm.taobao.org/is-wsl/download/is-wsl-2.1.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fis-wsl%2Fdownload%2Fis-wsl-2.1.1.tgz#4a1c152d429df3d441669498e2486d3596ebaf1d"
+  integrity sha1-ShwVLUKd89RBZpSY4khtNZbrrx0=
+
+open@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.npm.taobao.org/open/download/open-7.0.0.tgz#7e52999b14eb73f90f0f0807fe93897c4ae73ec9"
+  integrity sha1-flKZmxTrc/kPDwgH/pOJfErnPsk=
+  dependencies:
+    is-wsl "^2.1.0"
+
+readline-sync@^1.4.10:
+  version "1.4.10"
+  resolved "https://registry.npm.taobao.org/readline-sync/download/readline-sync-1.4.10.tgz#41df7fbb4b6312d673011594145705bf56d8873b"
+  integrity sha1-Qd9/u0tjEtZzARWUFFcFv1bYhzs=
+
 typescript@^3.7.5:
   version "3.7.5"
   resolved "https://registry.npm.taobao.org/typescript/download/typescript-3.7.5.tgz?cache=0&sync_timestamp=1579418992876&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ftypescript%2Fdownload%2Ftypescript-3.7.5.tgz#0692e21f65fd4108b9330238aac11dd2e177a1ae"
