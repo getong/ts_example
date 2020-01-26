@@ -3,6 +3,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
+    "@types/node": "^13.5.0",
     "grapheme-splitter": "^1.0.4",
     "open": "^7.0.0",
     "readline-sync": "^1.4.10"

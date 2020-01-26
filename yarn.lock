@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@types/node@^13.5.0":
+  version "13.5.0"
+  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-13.5.0.tgz#4e498dbf355795a611a87ae5ef811a8660d42662"
+  integrity sha1-TkmNvzVXlaYRqHrl74EahmDUJmI=
+
 grapheme-splitter@^1.0.4:
   version "1.0.4"
   resolved "https://registry.npm.taobao.org/grapheme-splitter/download/grapheme-splitter-1.0.4.tgz#9cf3a665c6247479896834af35cf1dbb4400767e"
