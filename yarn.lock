@@ -3,9 +3,9 @@
 
 
 "@types/node@^13.5.0":
-  version "13.7.0"
-  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-13.7.0.tgz#b417deda18cf8400f278733499ad5547ed1abec4"
-  integrity sha1-tBfe2hjPhADyeHM0ma1VR+0avsQ=
+  version "13.7.2"
+  resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-13.7.2.tgz#50375b95b5845a34efda2ffb3a087c7becbc46c6"
+  integrity sha1-UDdblbWEWjTv2i/7Ogh8e+y8RsY=
 
 grapheme-splitter@^1.0.4:
   version "1.0.4"
